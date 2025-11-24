@@ -1,9 +1,0 @@
-{
-  "name": "Uchaguzi Block - Kenyan Secure Voting Hub",
-  "description": "A blockchain-enabled, AI-powered voting platform designed for the 2027 Kenyan General Election. Features biometric verification, diaspora support, and real-time fraud detection.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ]
-}
